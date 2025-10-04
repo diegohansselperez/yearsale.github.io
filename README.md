@@ -8,4 +8,3 @@ Es una pagina web MultiPage(No funcional), parte de una pagina para E-commerce q
 - **CSS**
 - **JavaScript**
 
-Pagina Web desplegada en Github: [YearSale-commerce](https://diegohansselperez.github.io/yearsale.github.io/http:// "YearSale")
